@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  button {
+    @apply bg-transparent border-none outline-none focus:outline-none;
+  }
+}
